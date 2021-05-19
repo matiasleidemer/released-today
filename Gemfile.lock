@@ -195,7 +195,7 @@ GEM
       ast (~> 2.4.0)
     pg (1.2.3)
     public_suffix (4.0.4)
-    puma (4.3.5)
+    puma (4.3.8)
       nio4r (~> 2.0)
     racc (1.5.2)
     rack (2.2.3)
@@ -375,7 +375,7 @@ DEPENDENCIES
   octicons_helper (~> 9.1.1)
   omniauth-spotify
   pg (~> 1.2.3)
-  puma (~> 4.3.5)
+  puma (~> 4.3.8)
   rails (~> 5.2.5)
   rspec-rails (~> 3.8)
   rspotify (~> 1.27.0)
